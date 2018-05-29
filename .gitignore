@@ -1,0 +1,4 @@
+data/
+lfw_dataset/
+.ipynb_checkpoints/
+*.tgz
